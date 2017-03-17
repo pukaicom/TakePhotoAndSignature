@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TakePhotoAndSignature</string>
+    <string name="submit">提交</string>
+    <string name="rewrite">重写</string>
+    <string name="sign_dialog_title1">如以上检查准确无误，</string>
+    <string name="sign_dialog_title2">请点击提交。</string>
+    <string name="help">帮助</string>
+    <string name="settings">设置</string>
+    <string name="cancel">取消</string>
+    <string name="help_content">当前权限被禁用，建议到设置界面开启权限!</string>
+    <string name="camera_open_error">启动相机失败</string>
+
+    <!-- 签字拍照-->
+    <string name="clear">清除</string>
+    <string name="use_signature">使用</string>
+    <string name="signature_tips">如以上检查准确无误,请签名确认</string>
+    <string name="retake_photo">重拍</string>
+    <string name="take_phonto">拍照</string>
+    <string name="check_album">从相册中选择</string>
+    <string name="select_photo">选择图片</string>
+    <string name="back">返回</string>
+    <string name="open_siganture">标注</string>
+    <string name="close_signature">关闭</string>
+    <string name="take_photo_fail"> 拍照失败</string>
+    <string name="start_camera_fail"> 启动照相机失败</string>
+</resources>
